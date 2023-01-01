@@ -1,0 +1,37 @@
+
+body {
+    background-image: url("Images/crypto.jpg");
+    background-position: center;
+    background-size:1800px 1000px;
+    block-size: auto;
+    background-attachment: fixed;
+  }
+  h1 {
+    text-decoration:underline;
+    text-decoration-color: beige;
+    outline-offset: 15px;
+    padding: 5px;
+    margin: 30px;
+    font-family: "Times New Roman", Times, serif;
+    color:gold;
+    text-align: center;
+    -moz-text-decoration-color: beige;
+}
+
+h5{
+    
+        
+    text-align: justify;
+  
+    font-family: "Times New Roman", Times, serif;
+    color:azure;
+}
+  h4{
+    color:beige;
+    
+  }
+
+tr{
+    background-color: aliceblue;
+    border-color: brown;
+}
